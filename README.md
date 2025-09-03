@@ -1,6 +1,10 @@
-# Waste and Garbage Recycling Vending Machine
+# Waste and Garbage Recycling Vending Machine  
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Tech](https://img.shields.io/badge/Tech-Arduino%20%7C%20C%20%7C%20Sensors-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-This is my undergraduate final-year project at Ekiti State University, Ado-Ekiti.  
+
+Tis is my undergraduate final-year project at Ekiti State University, Ado-Ekiti.  
 The project focuses on automating waste collection and incentivizing recycling using a vending machine model.  
 
 ## Features
